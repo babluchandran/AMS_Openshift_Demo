@@ -1,0 +1,310 @@
+INFO  12-55-2018 06:55:21 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:21 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-55-2018 06:55:21 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:21 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+INFO  12-55-2018 06:55:21 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:21 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-55-2018 06:55:22 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:22 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+ERROR 12-55-2018 06:55:22 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:22 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:22 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:22 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-55-2018 06:55:22 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:22 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-55-2018 06:55:22 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:22 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:24 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:24 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-55-2018 06:55:24 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:24 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:24 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:24 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-55-2018 06:55:24 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:24 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-55-2018 06:55:24 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:24 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-55-2018 06:55:24 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:24 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-55-2018 06:55:24 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:24 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-55-2018 06:55:24 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:24 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:26 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:26 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-55-2018 06:55:26 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:26 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:26 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:26 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-55-2018 06:55:26 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:26 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-55-2018 06:55:26 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:26 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-55-2018 06:55:26 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:26 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-55-2018 06:55:26 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:26 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-55-2018 06:55:26 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:26 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:28 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:28 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-55-2018 06:55:28 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:28 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:28 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:28 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-55-2018 06:55:28 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:28 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-55-2018 06:55:28 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:28 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-55-2018 06:55:28 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:28 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-55-2018 06:55:28 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:28 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-55-2018 06:55:28 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:28 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:30 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:30 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-55-2018 06:55:30 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:30 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:30 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:30 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-55-2018 06:55:30 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:30 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-55-2018 06:55:30 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:30 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-55-2018 06:55:30 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:30 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-55-2018 06:55:30 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:30 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-55-2018 06:55:30 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:30 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:32 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:32 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-55-2018 06:55:32 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:32 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:32 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:32 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-55-2018 06:55:32 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:32 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-55-2018 06:55:32 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:32 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-55-2018 06:55:32 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:32 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-55-2018 06:55:32 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:32 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-55-2018 06:55:32 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:32 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:34 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:34 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-55-2018 06:55:34 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:34 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:34 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:34 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-55-2018 06:55:34 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:34 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-55-2018 06:55:34 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:34 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-55-2018 06:55:34 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:34 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-55-2018 06:55:34 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:34 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-55-2018 06:55:34 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:34 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:36 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:36 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-55-2018 06:55:36 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:36 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:36 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:36 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-55-2018 06:55:36 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:36 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-55-2018 06:55:36 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:36 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-55-2018 06:55:37 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:37 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-55-2018 06:55:37 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:37 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-55-2018 06:55:37 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:37 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:38 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:38 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-55-2018 06:55:38 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:38 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:39 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:39 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-55-2018 06:55:39 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:39 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-55-2018 06:55:39 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:39 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-55-2018 06:55:39 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:39 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-55-2018 06:55:39 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:39 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-55-2018 06:55:39 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:39 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:40 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:40 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-55-2018 06:55:40 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:55:40 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:41 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:41 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-55-2018 06:55:41 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:41 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-55-2018 06:55:41 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:41 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-55-2018 06:55:41 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:41 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-55-2018 06:55:41 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:41 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-55-2018 06:55:41 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:41 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:42 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:42 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-55-2018 06:55:42 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:42 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:43 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:43 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-55-2018 06:55:43 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:43 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-55-2018 06:55:43 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:43 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-55-2018 06:55:43 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:43 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-55-2018 06:55:43 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:43 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-55-2018 06:55:43 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:43 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:44 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:44 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-55-2018 06:55:44 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:44 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:45 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:45 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-55-2018 06:55:45 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:45 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-55-2018 06:55:45 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:45 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-55-2018 06:55:45 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:45 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-55-2018 06:55:45 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:45 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-55-2018 06:55:45 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:45 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:46 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:46 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-55-2018 06:55:46 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:46 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:47 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:47 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-55-2018 06:55:47 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:47 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-55-2018 06:55:47 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:47 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-55-2018 06:55:47 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:47 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-55-2018 06:55:47 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:47 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-55-2018 06:55:47 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:47 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:48 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:48 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-55-2018 06:55:48 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:48 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:49 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:49 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-55-2018 06:55:49 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:49 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-55-2018 06:55:49 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:49 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-55-2018 06:55:49 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:49 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-55-2018 06:55:49 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:49 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-55-2018 06:55:49 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:49 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:50 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:50 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-55-2018 06:55:50 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:50 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:51 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:51 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-55-2018 06:55:51 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:51 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-55-2018 06:55:51 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:51 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-55-2018 06:55:51 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:51 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-55-2018 06:55:51 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:51 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-55-2018 06:55:51 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:51 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:52 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:52 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-55-2018 06:55:52 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:52 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:53 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:53 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-55-2018 06:55:53 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:53 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-55-2018 06:55:53 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:53 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-55-2018 06:55:53 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:53 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-55-2018 06:55:53 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:53 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-55-2018 06:55:53 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:53 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:54 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:54 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-55-2018 06:55:54 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:54 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:55 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:55 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-55-2018 06:55:55 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:55 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-55-2018 06:55:55 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:55 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-55-2018 06:55:55 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:55 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-55-2018 06:55:55 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:55 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-55-2018 06:55:55 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:55 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:56 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:56 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-55-2018 06:55:56 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:56 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:57 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:57 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-55-2018 06:55:57 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:57 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-55-2018 06:55:57 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:57 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-55-2018 06:55:57 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:57 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-55-2018 06:55:57 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:57 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-55-2018 06:55:57 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:57 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:58 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:58 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-55-2018 06:55:58 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:58 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-55-2018 06:55:59 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:59 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-55-2018 06:55:59 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:59 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-55-2018 06:55:59 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:59 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-55-2018 06:55:59 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:59 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-55-2018 06:55:59 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:59 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-55-2018 06:55:59 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:55:59 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-56-2018 06:56:00 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:00 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-56-2018 06:56:00 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:00 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-56-2018 06:56:01 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:01 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-56-2018 06:56:01 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:01 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-56-2018 06:56:01 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:01 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-56-2018 06:56:01 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:01 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-56-2018 06:56:01 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:01 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-56-2018 06:56:01 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:01 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-56-2018 06:56:02 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:02 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-56-2018 06:56:02 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:02 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-56-2018 06:56:03 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:03 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-56-2018 06:56:03 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:03 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-56-2018 06:56:03 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:03 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-56-2018 06:56:03 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:03 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-56-2018 06:56:03 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:03 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-56-2018 06:56:03 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:03 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-56-2018 06:56:04 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:04 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-56-2018 06:56:05 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:05 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-56-2018 06:56:05 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:05 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-56-2018 06:56:05 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:05 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-56-2018 06:56:05 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:05 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-56-2018 06:56:05 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:05 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-56-2018 06:56:05 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:05 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-56-2018 06:56:05 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:05 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-56-2018 06:56:07 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:07 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-56-2018 06:56:07 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:07 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-56-2018 06:56:07 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:07 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-56-2018 06:56:07 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:07 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-56-2018 06:56:07 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:07 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-56-2018 06:56:07 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:07 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-56-2018 06:56:07 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:07 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-56-2018 06:56:07 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:07 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-56-2018 06:56:09 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:09 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-56-2018 06:56:09 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:09 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-56-2018 06:56:09 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:09 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-56-2018 06:56:09 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:09 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-56-2018 06:56:09 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:09 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-56-2018 06:56:09 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:09 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-56-2018 06:56:09 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:09 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-56-2018 06:56:09 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:09 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-56-2018 06:56:11 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:11 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-56-2018 06:56:11 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:11 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-56-2018 06:56:11 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:11 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-56-2018 06:56:11 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:11 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-56-2018 06:56:11 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:11 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-56-2018 06:56:11 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:11 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-56-2018 06:56:11 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:11 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-56-2018 06:56:11 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:11 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-56-2018 06:56:13 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:13 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-56-2018 06:56:13 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:13 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-56-2018 06:56:13 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:13 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-56-2018 06:56:13 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:13 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-56-2018 06:56:13 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:13 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-56-2018 06:56:13 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:13 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-56-2018 06:56:13 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:13 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-56-2018 06:56:13 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:13 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-56-2018 06:56:15 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:15 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-56-2018 06:56:15 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:15 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-56-2018 06:56:15 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:15 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-56-2018 06:56:15 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:15 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-56-2018 06:56:15 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:15 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-56-2018 06:56:15 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:15 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-56-2018 06:56:15 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:15 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-56-2018 06:56:15 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:15 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-56-2018 06:56:17 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:17 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-56-2018 06:56:17 AMSDemo.Controllers.ProcessOPLDController [5] - 10/12/18 6:56:17 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-56-2018 06:56:17 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:17 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-56-2018 06:56:17 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:17 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-56-2018 06:56:17 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:17 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-56-2018 06:56:17 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:17 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-56-2018 06:56:17 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:17 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-56-2018 06:56:17 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:17 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-56-2018 06:56:19 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:19 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-56-2018 06:56:19 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:19 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-56-2018 06:56:19 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:19 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-56-2018 06:56:19 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:19 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-56-2018 06:56:19 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:19 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-56-2018 06:56:19 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:19 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-56-2018 06:56:19 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:19 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-56-2018 06:56:19 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:19 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-56-2018 06:56:21 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:21 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-56-2018 06:56:21 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:21 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-56-2018 06:56:21 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:21 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-56-2018 06:56:21 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:21 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-56-2018 06:56:21 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:21 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-56-2018 06:56:21 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:21 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-56-2018 06:56:21 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:21 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-56-2018 06:56:21 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:21 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-56-2018 06:56:23 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:23 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: DIALS file Read in Progress. 
+ERROR 12-56-2018 06:56:23 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:23 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 
+INFO  12-56-2018 06:56:23 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:23 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Read in Progress. 
+INFO  12-56-2018 06:56:23 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:23 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD file Processed. 
+INFO  12-56-2018 06:56:23 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:23 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Data inserted in DB. 
+INFO  12-56-2018 06:56:23 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:23 AM AMS-MicroServiceProcessOPLDNDIALSFiles: OPLD message pushed to MQ. 
+INFO  12-56-2018 06:56:23 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:23 AM AMS-POC-MicroServiceProcessOPLDNDIALSFiles: OPLD Message Pushed to MQ. 
+ERROR 12-56-2018 06:56:23 AMSDemo.Controllers.ProcessOPLDController [11] - 10/12/18 6:56:23 AM AMS-MicroServiceProcessOPLDNDIALSFiles: StartIndex cannot be less than zero.
+Parameter name: startIndex 

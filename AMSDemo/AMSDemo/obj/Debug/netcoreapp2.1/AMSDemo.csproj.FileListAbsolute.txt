@@ -1,0 +1,15 @@
+/home/ubuntu/demo/AMSMIcroServiceDemo/AMSDemo/AMSDemo/bin/Debug/netcoreapp2.1/OPLDFiles/OPLD1_06262018000008539993.txt
+/home/ubuntu/demo/AMSMIcroServiceDemo/AMSDemo/AMSDemo/bin/Debug/netcoreapp2.1/AMSDemo.deps.json
+/home/ubuntu/demo/AMSMIcroServiceDemo/AMSDemo/AMSDemo/bin/Debug/netcoreapp2.1/AMSDemo.runtimeconfig.json
+/home/ubuntu/demo/AMSMIcroServiceDemo/AMSDemo/AMSDemo/bin/Debug/netcoreapp2.1/AMSDemo.runtimeconfig.dev.json
+/home/ubuntu/demo/AMSMIcroServiceDemo/AMSDemo/AMSDemo/bin/Debug/netcoreapp2.1/AMSDemo.dll
+/home/ubuntu/demo/AMSMIcroServiceDemo/AMSDemo/AMSDemo/bin/Debug/netcoreapp2.1/AMSDemo.pdb
+/home/ubuntu/demo/AMSMIcroServiceDemo/AMSDemo/AMSDemo/obj/Debug/netcoreapp2.1/AMSDemo.csprojAssemblyReference.cache
+/home/ubuntu/demo/AMSMIcroServiceDemo/AMSDemo/AMSDemo/obj/Debug/netcoreapp2.1/AMSDemo.csproj.CoreCompileInputs.cache
+/home/ubuntu/demo/AMSMIcroServiceDemo/AMSDemo/AMSDemo/obj/Debug/netcoreapp2.1/AMSDemo.RazorAssemblyInfo.cache
+/home/ubuntu/demo/AMSMIcroServiceDemo/AMSDemo/AMSDemo/obj/Debug/netcoreapp2.1/AMSDemo.RazorAssemblyInfo.cs
+/home/ubuntu/demo/AMSMIcroServiceDemo/AMSDemo/AMSDemo/obj/Debug/netcoreapp2.1/AMSDemo.AssemblyInfoInputs.cache
+/home/ubuntu/demo/AMSMIcroServiceDemo/AMSDemo/AMSDemo/obj/Debug/netcoreapp2.1/AMSDemo.AssemblyInfo.cs
+/home/ubuntu/demo/AMSMIcroServiceDemo/AMSDemo/AMSDemo/obj/Debug/netcoreapp2.1/AMSDemo.RazorTargetAssemblyInfo.cache
+/home/ubuntu/demo/AMSMIcroServiceDemo/AMSDemo/AMSDemo/obj/Debug/netcoreapp2.1/AMSDemo.dll
+/home/ubuntu/demo/AMSMIcroServiceDemo/AMSDemo/AMSDemo/obj/Debug/netcoreapp2.1/AMSDemo.pdb
